@@ -377,6 +377,7 @@
 "Assets/Scenes/Movement2D.cs"
 "Assets/Scenes/OnCollision2DSample.cs"
 "Assets/Scenes/OnTrigger2DSample.cs"
+"Assets/Scenes/scriptableObject/Weapon.cs"
 -langversion:9.0
 
 /deterministic
